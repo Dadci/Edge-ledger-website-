@@ -1,0 +1,45 @@
+/* Textes */
+
+.text-primary {
+    color: #28a745;
+}
+
+.text-secondary{
+    color: #0284d0;
+}
+
+/* button*/
+
+.btn{
+    cursor: pointer;
+    display: inline-block;
+    padding: 10px 30px;
+    color: #ffffff;
+    background-color: #28a745;
+    border: none;
+    border-radius: 5px;
+
+}
+
+.btn:hover{
+    opacity: 0.9;
+}
+
+
+/* flex-items*/
+
+.flex-items  {
+    display:flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    
+    
+    
+    
+}
+
+.flex-items > div {
+    padding: 20px; 
+}
